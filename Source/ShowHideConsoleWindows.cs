@@ -1,6 +1,8 @@
 using System;
 using System.Runtime.InteropServices;
 
+/// This is a snippet from my MakeMeRest application, which is a custom timer which counts down every 30 minutes and prompts you to take a stretch and look at other things 
+/// instead of the computer screen. This module allows the application to run in the background without distracting the user, or taking up an element of their taskbar. 
 namespace MakeMeRest.Engine
 {
     /// <summary>
